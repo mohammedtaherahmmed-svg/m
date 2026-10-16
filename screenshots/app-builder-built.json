@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "نصنع الكواشف والأجهزة التي يعمل عليها المختبر كل يوم. · مونوكروم",
+      "hasCanvas": false,
+      "bodyTextLen": 2406,
+      "bodyTextHash": "66a9832d9634e5fe20e5983695e4151f3ab74c68a0462de0e464631fbc0ba078",
+      "bodyTextPrefix": "تخطِّ إلى المحتوى MONO CHROME لحلول التشخيص المختبري الرئيسية من",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "نصنع الكواشف والأجهزة التي يعمل عليها المختبر كل يوم. · مونوكروم",
+      "hasCanvas": false,
+      "bodyTextLen": 2330,
+      "bodyTextHash": "c62b13e551864b8e06cb497b5a40eae5efd7504b6b0d720ba7ac75fe4a035470",
+      "bodyTextPrefix": "تخطِّ إلى المحتوى MONO CHROME ع EN طلب 0 لحلول التشخيص المختبري ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
